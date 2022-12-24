@@ -2,7 +2,7 @@
 // Используйте Arrow Function синтаксис.
 // Протестируйте функцию на любых значениях и выведите результат в консоль.
 
-const value = (one, two) => {
+const value = (one, two) => { 
   let result = Math.pow(one, two);
   console.log(result);
 }
